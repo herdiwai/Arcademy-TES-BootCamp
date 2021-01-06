@@ -1,3 +1,29 @@
+- Berikut ScreenShoot CRUD Produk dengan Laravel 7 :
+
+#Tampilan
+![tampilam](https://user-images.githubusercontent.com/70770018/103778974-a7ad3f00-5065-11eb-933f-7ebbffdaf1c0.jpg)
+
+#TambahProduk
+![tambah_produk](https://user-images.githubusercontent.com/70770018/103779089-d1fefc80-5065-11eb-931d-d3a92e3cd9a0.jpg)
+
+#TambahProdukHasil
+![tambah_produk_hasil](https://user-images.githubusercontent.com/70770018/103779157-eba04400-5065-11eb-86ea-13205294d8e5.jpg)
+
+#EditProduk
+![edit_produk](https://user-images.githubusercontent.com/70770018/103779205-fe1a7d80-5065-11eb-8190-6de854844fbc.jpg)
+
+#EditProdukHasil
+![edit_produk_hasil](https://user-images.githubusercontent.com/70770018/103779233-0a063f80-5066-11eb-8970-b29b39089907.jpg)
+
+#HapusProduk
+![hapus_produk](https://user-images.githubusercontent.com/70770018/103779275-18545b80-5066-11eb-8ec0-97c572607ca8.jpg)
+
+#HapusProdukHasil
+![hapus_produk_hasil](https://user-images.githubusercontent.com/70770018/103779305-24401d80-5066-11eb-8d4e-cc3a7bb5aa82.jpg)
+
+
+Terimakasih untuk Arcademy.com dan Terimakasih sudah Mampir ^^
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
